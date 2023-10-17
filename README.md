@@ -10,7 +10,8 @@ This project aims to empower our Educational Institute client with data-driven i
 - Designed and implemented Enterprise Data Warehouse (EDW) using Ralph Kimball’s Dimensional Modelling Approach.
 - Created and configured Staging, EDW, and Control Framework databases on MS SQL Server. 
 
-  ![Tableau]()  
+  ![Tableau](https://github.com/sshahidul29/Tableau-random-work/blob/main/Figure1/Tab1.PNG)
+  
 Figure 1: Class Attendance Star Schema
 
 ## ETL Pipeline was built in Visual Studio using SSIS
@@ -21,18 +22,18 @@ Figure 1: Class Attendance Star Schema
 - Scheduled and monitored SQL Server Agent jobs to run ETL SSIS packages to move data.
 
   
-   ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL3.PNG) 
+   ![Tableau](https://github.com/sshahidul29/Tableau-random-work/blob/main/Figure1/Tab2.PNG)  
 
  Figure 2: Control-flow diagram for ETL Pipeline
 
-   ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL1.PNG) 
+ ![Tableau](https://github.com/sshahidul29/Tableau-random-work/blob/main/Figure1/Tab3.PNG)  
 
  Figure 3: Data-flow diagram of ETL Pipeline for Student dimension
 
-  ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL2.PNG) 
+![Tableau](https://github.com/sshahidul29/Tableau-random-work/blob/main/Figure1/Tab4.PNG)  
 
 Figure 4: Data-flow diagram for Incremental load of ETL Pipeline for FactClassAttendance
 
- ![Class Attendance](https://github.com/sshahidul29/Building-an-Analytic-Environment-for-Class-Attendance-Management-Systems/blob/main/Figures/ClassETL4.PNG) 
+ ![Tableau](https://github.com/sshahidul29/Tableau-random-work/blob/main/Figure1/Tab5.PNG)  
 
 Figure 5: Control-flow diagram for ETL Pipeline to automate the system through SQL Server Agent
