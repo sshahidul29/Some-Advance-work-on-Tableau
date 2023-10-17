@@ -6,7 +6,7 @@ Figure 1: Advanced Dashboard was created for a retail store data
 
  Figure 2: Sales Performance vs Target Analysis
 
- ![Tableau](https://github.com/sshahidul29/Tableau-random-work/blob/main/Figure1/Tab3.PNG)  
+ ![Tableau](https://github.com/sshahidul29/Tableau-random-work/blob/main/Figure1/Tab33.PNG)  
 
  Figure 3: Customer Busket Analysis
 
